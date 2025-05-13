@@ -12,7 +12,10 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #e3f2fd;
+    background: url(img/img.gif);
+    background-position: center;
+    background-size: cover;
+
 }
 
 .wrapper{
