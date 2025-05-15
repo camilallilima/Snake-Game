@@ -25,13 +25,13 @@ body{
     overflow: hidden;
     flex-direction: column;
     justify-content: center;
-    background: #293447;
+    background: #754580;
     border-radius: 5px;
-    box-shadow: 0 20px 40px rgba(52, 87, 220, 0.2);
+    box-shadow: 0 20px 40px rgb(158, 141, 191);
 }
 
 .game-details{
-    color: #b8c6dc;
+    color: #ecb6ff;
     font-weight: 500;
     font-size: 1.2rem;
     padding: 20px 27px;
@@ -43,7 +43,7 @@ body{
     height: 100%;
     width: 100%;
     display: grid;
-    background: #212837;
+    background: #d73c84d9;
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
@@ -52,7 +52,7 @@ body{
 }
 
 .play-board .head{
-    background: #60cbff;
+    background: #aa60ff;
 }
 
 .controls{
